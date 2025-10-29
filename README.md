@@ -10,4 +10,13 @@ This project visualizes Spotify data using **Tableau**, providing insights into:
 - Energy & danceability trends
 - Playlist analysis
 
-Project Link -> https://drive.google.com/file/d/19N51WfrK2wNdyQrCN3Qq8-V06hOmJB6p/view?usp=sharing
+   🧠 Insights
+- “Blinding Lights” is the most streamed track.
+- 2022 saw the highest Apple Playlist entries.
+- Energy and Danceability are strongly correlated in top hits.
+
+Project Link -> https://drive.google.com/file/d/19N51WfrK2wNdyQrCN3Qq8-V06hOmJB6p/uc?export=download
+
+## 🌐 Live Dashboard
+You can view the interactive version on Tableau Public:  
+https://public.tableau.com/app/profile/niraja.p.g/viz/24rthAug/Dashboard2
