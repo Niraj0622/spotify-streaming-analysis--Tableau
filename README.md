@@ -15,7 +15,8 @@ This project visualizes Spotify data using **Tableau**, providing insights into:
 - 2022 saw the highest Apple Playlist entries.
 - Energy and Danceability are strongly correlated in top hits.
 
-Project Link -> https://drive.google.com/file/d/19N51WfrK2wNdyQrCN3Qq8-V06hOmJB6p/uc?export=download
+Project Link -> 
+https://drive.google.com/uc?export=download=file/d/1biDcr01g4o42JQJp1P4AOjizdKAKQtH4/view?usp=drive_link
 
 ## 🌐 Live Dashboard
 You can view the interactive version on Tableau Public:  
