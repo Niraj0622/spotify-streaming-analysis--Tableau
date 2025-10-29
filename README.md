@@ -16,7 +16,7 @@ This project visualizes Spotify data using **Tableau**, providing insights into:
 - Energy and Danceability are strongly correlated in top hits.
 
 Project Link -> 
-https://drive.google.com/uc?export=download=file/d/1biDcr01g4o42JQJp1P4AOjizdKAKQtH4/view?usp=drive_link
+https://drive.google.com/uc?export=download/file/d/1biDcr01g4o42JQJp1P4AOjizdKAKQtH4/view?usp=drive_link
 
 ## 🌐 Live Dashboard
 You can view the interactive version on Tableau Public:  
